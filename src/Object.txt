@@ -1,0 +1,3 @@
+ITransaction=com.yjp.transaction.impl.ITransactionImpl
+IObjectDao=com.yjp.dao.impl.IObjectDaoImpl
+IObjectService=com.yjp.service.impl.IObjectServiceImpl

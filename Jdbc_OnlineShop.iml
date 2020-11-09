@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-dbcp2-2.8.0" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-logging-1.2" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-pool2-2.9.0" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-dbcp2-2.8.0/apidocs" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-logging-1.2/apidocs" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-pool2-2.9.0/apidocs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-dbcp2-2.8.0" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/commons-pool2-2.9.0" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/build/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/demo/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/generated/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/legacy/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/main/core-api/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/main/core-impl/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/main/protocol-impl/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/main/user-api/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/main/user-impl/java" />
+          <root url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22/src/test/java" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../JavaSource/commons-dbcp2-2.8.0" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../JavaSource/commons-logging-1.2" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../JavaSource/commons-pool2-2.9.0" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../JavaSource/mysql-connector-java-8.0.22" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../JavaSource/commons-dbcp2-2.8.0" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/../../JavaSource/commons-pool2-2.9.0" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
